@@ -1,0 +1,22 @@
+{
+  "name": "simplenodeserver",
+  "version": "1.0.0",
+  "description": "A simple node server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhmahajan0077/simplenodehttp.git"
+  },
+  "keywords": [
+    "httpserver"
+  ],
+  "author": "Saurabh Mahajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabhmahajan0077/simplenodehttp/issues"
+  },
+  "homepage": "https://github.com/saurabhmahajan0077/simplenodehttp#readme"
+}
